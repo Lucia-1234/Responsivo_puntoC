@@ -138,3 +138,21 @@ body {
     margin: auto;
   }
 } */
+
+.menu {
+  background-color: black;
+  width: 100vw;
+  height: 5vh;
+}
+
+li {
+  display: inline-block;
+  margin-left: 30vh;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: honeydew;
+  text-align: center;
+}
